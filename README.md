@@ -1,1 +1,1 @@
-Some helpful AWS tools (scripts, etc) for quality of life.
+Some helpful AWS tools (scripts, etc) when working with AWS CLI. 
